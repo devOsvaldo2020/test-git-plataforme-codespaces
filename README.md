@@ -1,13 +1,14 @@
-# test-git-plataforme
-destando a funcao x do proprio git 
+# test-git-plataforme - codespace
 
-bora testa esta funcao
+Testando a função codespace do próprio git 
 
-vou programar um html direto desta plataforma.
+Bora testa esta função
+
+Vou programar um html direto nesta plataforma.
 
 1) criando o arquivo .html
 
-Deu certo tudo que programo vai alterando em tempo real no navegador. show esta funcao.
+Deu certo tudo que programo aqui vai alterando em tempo real no navegador. show adorei função.
 
 aprovada
 
