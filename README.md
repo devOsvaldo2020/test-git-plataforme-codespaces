@@ -2,7 +2,7 @@
 
 Testando a função codespace do próprio git 
 
-Bora testa esta função
+Bora testar esta função
 
 Vou programar um html direto nesta plataforma.
 
